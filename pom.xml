@@ -8,7 +8,6 @@
   <packaging>jar</packaging>
 
   <name>springboot-docker-app</name>
-  <url>http://maven.apache.org</url>
 
   <parent>
     <groupId>org.springframework.boot</groupId>
